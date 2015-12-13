@@ -1,0 +1,6 @@
+C:\FER\3.semestar\C#\DZ\1. zadaca\zadaca1\zadatak2\bin\Debug\zadatak2.exe.config
+C:\FER\3.semestar\C#\DZ\1. zadaca\zadaca1\zadatak2\bin\Debug\zadatak2.exe
+C:\FER\3.semestar\C#\DZ\1. zadaca\zadaca1\zadatak2\bin\Debug\zadatak2.pdb
+C:\FER\3.semestar\C#\DZ\1. zadaca\zadaca1\zadatak2\obj\Debug\zadatak2.exe
+C:\FER\3.semestar\C#\DZ\1. zadaca\zadaca1\zadatak2\obj\Debug\zadatak2.pdb
+C:\FER\3.semestar\C#\DZ\1. zadaca\zadaca1\zadatak2\obj\Debug\zadatak2.csprojResolveAssemblyReference.cache
